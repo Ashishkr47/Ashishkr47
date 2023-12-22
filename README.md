@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <h3 align="center">A Electrical Engineering Student | Proficient in C/C++, Python, and Full-Stack Development</h3>
 
-<img align ="right" atl ="coding" width="400" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952gcks3g0f1agrouhqqdd0z1a5zq33f87hkuw8d1o0&ep=v1_gifs_search&rid=200w.gif&ct=gif">
+<img align ="right" atl ="coding" width="300" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952gcks3g0f1agrouhqqdd0z1a5zq33f87hkuw8d1o0&ep=v1_gifs_search&rid=200w.gif&ct=gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkr47&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkr47" /> </p>
 
